@@ -100,7 +100,7 @@ line-height: 72px;
   margin-top: 15px;
 }
 
-.about {
+.cv-chapters {
   margin-top: 40px;
   display: flex;
   flex-direction: column;
@@ -118,7 +118,7 @@ line-height: 72px;
   align-items: center;
 }
 
-.about-me-text {
+.chapter-text {
   font-style: italic;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
