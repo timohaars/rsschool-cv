@@ -155,7 +155,7 @@ color: var(--blue);
   height: 32px;
   display: inline-flex;
   justify-content: center;
-  border: 1px outset #db0b0b;
+  border: 2px outset #db0b0b;
   border-radius: 50%;
   box-sizing: border-box;
 }
@@ -166,12 +166,44 @@ color: var(--blue);
 }
 
 .footer {
+  margin-left: 23%;
   position: sticky;
   font-family: Cabin, sans-serif;
-  margin-left: 3em;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
   height: 100%;
-  align-items: center;
-  margin-top: 15px;
+  background-color: rgb(236, 236, 176);
+}
+
+.rs-div {
+  width: 33%;
+  margin-top: 10px;
+}
+
+.rs-icon {
+  width: 64px;
+  height: 48px;
+  margin-left: 50%; 
+}
+
+.year-div {
+  width: 33%;
+}
+
+.year-child {
+  margin-top: 20px;
+  text-align: center
+}
+
+.git-div {
+  width: 33%;
+  margin-top: 10px;
+}
+
+.git-div-icon {
+  width: 48px;
+  height: 48px;
+  margin-left:50%; 
+  border-radius: 50%;
 }
