@@ -67,7 +67,11 @@ line-height: 72px;
   justify-content: center;
   list-style: none;
   text-decoration: underline
-  
+}
+
+.a-menu-item, .a-menu-item:active, .a-menu-item:link {
+  color: var(--red);
+  text-decoration: none;
 }
 
 .photo {
