@@ -5,4 +5,4 @@
 ####  *-*
 ####  *No work experience*
 ####  *Higher technical education*
-####  *A2 level*
+####  *A1 level*
